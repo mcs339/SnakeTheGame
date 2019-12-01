@@ -1,0 +1,19 @@
+
+
+#main-form-container{
+    width: 100%;
+    min-height: 640px;
+    height: 640px;
+}
+
+#main-form {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 1px solid red;
+    width: 576px;
+    height: 640px;
+
+}
